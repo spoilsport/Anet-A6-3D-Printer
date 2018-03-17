@@ -1,6 +1,6 @@
 Anet A6 3D Printer
 
-All the schemas in this folder have been reversed to develop a new product software
+All the schemas in this folder have been reversed to develop a new firmware.
 
 There is no routing on any PCB.
 3D drawings has drawn just for fun.
