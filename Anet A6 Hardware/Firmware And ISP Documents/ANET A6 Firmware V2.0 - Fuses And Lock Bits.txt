@@ -1,0 +1,16 @@
+Main Board		: ANET3D V1-5
+Firmware Version	: V2.0
+Microcontroller		: ATMega1284P
+Tool			: STK500
+
+
+Flash File	: ANET A6 Firmware V2.0 - Flash.hex
+EEPROM File	: ANET A6 Firmware V2.0 - EEPROM.eep
+
+
+
+Extended	: 0xFD
+High		: 0xDA
+Low		: 0xD6
+
+LOCKBIT		: 0xFF
